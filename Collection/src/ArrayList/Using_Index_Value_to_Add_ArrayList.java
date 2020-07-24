@@ -7,7 +7,7 @@ public class Using_Index_Value_to_Add_ArrayList {
 		ArrayList<String> animals = new ArrayList<String>();
 		animals.add(0, "Elephant");
 		animals.add(1, "Dog");
-		int result = animals.indexOf("Elephant");
+		int result = animals.indexOf("Elephant");//index 0
 		System.out.println(result);
 	}
 
