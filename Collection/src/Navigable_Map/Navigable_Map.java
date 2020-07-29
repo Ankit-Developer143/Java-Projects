@@ -1,5 +1,5 @@
 package Navigable_Map;
-
+//Null value Not Accepted
 import java.util.NavigableMap;
 import java.util.TreeMap;
 
@@ -11,6 +11,7 @@ public class Navigable_Map {
 		numbers.put("Two", 2);
 		numbers.put("One", 1);
 		numbers.put("Three", 3);
+		//numbers.put(null, null);
 		System.out.println("NavigableMap : " + numbers);
 		// op:-NavigableMap : {One=1, Three=3, Two=2}
 		
