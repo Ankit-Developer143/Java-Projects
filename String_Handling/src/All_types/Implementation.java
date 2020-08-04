@@ -1,4 +1,4 @@
-package String_Implementation;
+package All_types;
 
 public class Implementation {
 	public static void main(String[] args) {
@@ -20,6 +20,11 @@ public class Implementation {
 		String s3 = new String("Example");
 		System.out.println(s3);
 		//op:-example
+		
+		
+		
+		
+		
 		
 		
 	}
